@@ -1,5 +1,5 @@
 # Projeto Banco Salão
-Autor: Allan Vítor
+@author: Allan Vítor
 
 ## Instalação do MySQL no Docker (Fedora)
 
@@ -76,4 +76,4 @@ CREATE TABLE pagamentos (
 );
 ````
 
-## Após isso basta fazer a inserção de dados nas tabelas e acabou!
+# Após isso basta fazer a inserção de dados nas tabelas e acabou!
