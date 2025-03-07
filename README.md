@@ -18,7 +18,7 @@ docker run --name bancosalao -e MYSQL_ROOT_PASSWORD=123bancosalao -p 3280:3306 -
 ## Conexão no MySQL Workbench
 Agora, abra o MySQL Workbench e conecte-se ao seu banco de dados. Acesse o MySQL utilizando a porta 3280 e a senha root 123bancosalao.
 
-## Criação do Banco de Dados e Tabelas
+## Criação do Banco de Dados
 Execute os seguintes comandos SQL para criar o banco de dados e as tabelas necessárias:
 
 ````
