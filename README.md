@@ -75,3 +75,5 @@ CREATE TABLE pagamentos (
     FOREIGN KEY (id_agendamento) REFERENCES agendamentos(id_agendamento)
 );
 ````
+
+## Após isso basta fazer a inserção de dados nas tabelas e acabou!
