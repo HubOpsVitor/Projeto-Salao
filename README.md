@@ -78,5 +78,5 @@ CREATE TABLE pagamentos (
 
 # Após isso basta fazer a inserção de dados nas tabelas e acabou!
 <div align="center">
-<img src="diagramabanco.png">
+<img src="DiagramaBanco.png">
 </div>
