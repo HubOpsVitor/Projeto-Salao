@@ -7,5 +7,5 @@ Primeiro, no Fedora, instale o MySQL no Docker com o seguinte comando:
 
 ```bash
 docker pull mysql
-exit
+
 
